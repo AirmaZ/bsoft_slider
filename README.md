@@ -1,0 +1,2 @@
+# bsoft_slider
+test
